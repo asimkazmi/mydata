@@ -1,4 +1,3 @@
 # Initial page
 
-this is the second page.
-
+This is a book about creating sensible defaults for test automation.
